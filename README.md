@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squared&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-squared&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-squared&logo=expo&logoColor=#D04A37" />
+  <br>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-squared&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-squared&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-squared&logo=fastapi" />
@@ -70,6 +71,7 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=flat-squared&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-squared&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat-squared&logo=appwrite&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-squared&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-squared&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-squared&logo=netlify&logoColor=#00C7B7" />
@@ -93,6 +95,7 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-squared&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-squared&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-squared&logo=Matplotlib&logoColor=black" />
+  <br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-squared&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-squared&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-squared&logo=Twilio&logoColor=white" />
